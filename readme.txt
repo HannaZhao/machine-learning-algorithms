@@ -1,2 +1,2 @@
-there are ml algorithms summary.
+these are implementations of ml algorithms when I am studying the machine learning.
 keep updating...
